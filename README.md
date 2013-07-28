@@ -4,7 +4,7 @@ Ezdeebee PHP Connector
 Requirements
 ------------
 
-* PHP 5.2.0 or greater (with the cURL extension enabled, as it should be by default)
+* PHP 4.0.2 or greater (with the cURL extension enabled, as it should be by default)
 * Support in your application to accept HTTP GET variables in some manner
 
 Configuration
